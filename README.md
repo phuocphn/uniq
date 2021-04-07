@@ -63,7 +63,7 @@ python main.py --train_id [training_id] \
 
 For each experiment details and hyperparameter setting, we refer the readers to the paper and `main.py` file.
 
-##Citation
+## Citation
 If you find RBNN useful in your research, please consider citing:
 ```
 @ARTICLE{9383003,
